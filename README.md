@@ -1,7 +1,7 @@
 # DL_Assignment
 
 
-Output for Q!:
+Output for Q1:
 ![image](https://github.com/user-attachments/assets/2bd388d2-ab81-4dc7-885d-f5406016923c)
 ![image](https://github.com/user-attachments/assets/b1c9ea71-8e62-4bd4-818e-c8c32566653f)
 
